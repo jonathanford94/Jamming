@@ -9,16 +9,19 @@ html {
 }
 
 h1 {
-  padding: .77rem 0;
-  background-color: #010c3f;
+  padding: 1.57rem 0;
+  background-color: #000000;
   text-align: center;
   font-family: 'Poppins', sans-serif;
-  font-size: 1.88rem;
-  color: #fff;
+  font-size: 2.08rem;
+  color: #1DB954;
+  letter-spacing: 0.5rem;
+  position: fixed;
+  width: 100%;
 }
 
 h1 .highlight {
-  color: #6c41ec;
+  color: #fff;
 }
 
 h2 {
@@ -29,10 +32,7 @@ h2 {
 .App {
   height: 100%;
   padding: 0 17% 10% 17%;
-  background-image: url('./background_photo_desktop.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: #282828;
   font-family: 'Work Sans', sans-serif;
   font-weight: 500;
   color: #fff;
