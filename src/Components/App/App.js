@@ -66,6 +66,7 @@ class App extends React.Component{
       <div>
       <h1>PLY<span className="highlight">LST</span>R</h1>
       <div className="App">
+        <p className="introduction">Welcome to PLYLSTR, a web app in which you can access your spotify account search for songs and build playlists which can then be saved to your account. To get started search for a song or artist below and you will be prompted to login to your account on Spotify's website, you will then be able to search for songs.</p>
         <SearchBar onSearch={this.search} />
         <div className="App-playlist">
           <SearchResults searchResults={this.state.searchResults} onAdd={this.addTrack} />
