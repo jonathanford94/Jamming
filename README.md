@@ -2,7 +2,7 @@
 
 ## PLYLSTR 🎵
 
-Jammming is a React web app with a purpose of allowing users to build playlists which can then be added to their account. It was built using the Spotify API, in which a user can log into their account (via Spotify) allowing Spotify content to be retrieved, playlists to be created and then posted to the user's Spotify account. 
+PLYLSTR is a React web app with a purpose of allowing users to build playlists which can then be added to their account. It was built using the Spotify API, in which a user can log into their account (via Spotify) allowing Spotify content to be retrieved, playlists to be created and then posted to the user's Spotify account. 
 
 ### Technologies Used 💻
 - HTML
@@ -11,4 +11,4 @@ Jammming is a React web app with a purpose of allowing users to build playlists 
 - React
 - Spotify API
 
-🌐 <a href="">Checkout Jammming on my portfolio</a>
+🌐 <a href="https://plylstr.jonathan-ford.co.uk/">Checkout PLYLSTR on my portfolio</a>
